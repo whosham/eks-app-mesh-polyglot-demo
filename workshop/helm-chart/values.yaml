@@ -183,7 +183,7 @@ frontend:
   lbType: alb
 
   image:
-    repository: 1381492201204.dkr.ecr.us-east-1.amazonaws.com/eks-app-mesh-demo/frontend_node
+    repository: 381492201204.dkr.ecr.us-east-1.amazonaws.com/eks-app-mesh-demo/frontend_node
     tag: "3.0"
     pullPolicy: Always
 
